@@ -25,13 +25,10 @@ step 7. Model Evaluation
 step 8. End
 
 ## Program:
-```
-/*
-Program to implement the multivariate linear regression model for predicting the price of the
-house and number of occupants in the house with SGD regressor.
-Developed by: Mallu Jagadeeswar Reddy
-RegisterNumber:212222240059
 
+## Developed by: Mallu Jagadeeswar Reddy
+## RegisterNumber:212222240059
+```
 
 import pandas as pd
 data=pd.read_csv("C:/Users/Admin/Desktop/Placement_Data.csv")
